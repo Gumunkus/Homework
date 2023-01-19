@@ -1,0 +1,15 @@
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\bin\Debug\net6.0\Task002.exe
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\bin\Debug\net6.0\Task002.deps.json
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\bin\Debug\net6.0\Task002.dll
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\bin\Debug\net6.0\Task002.pdb
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.dll
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\refint\Task002.dll
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.pdb
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+C:\Users\Новый профиль\Desktop\Homework\Seminar1\Task002\obj\Debug\net6.0\ref\Task002.dll
