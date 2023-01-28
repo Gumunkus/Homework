@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
+bin/
+obj/
+
+
 # User-specific files
 *.rsuser
 *.suo
@@ -396,3 +401,17 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
